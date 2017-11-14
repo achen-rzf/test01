@@ -6,6 +6,7 @@ public class User {
 		boolean result = false;
 		System.out.println("01");
 		System.out.println("login ok!");
+		System.out.println("02");
 		return result;
 	}
 

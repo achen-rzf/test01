@@ -9,5 +9,9 @@ public class User {
 		System.out.println("04");
 		return result;
 	}
+	
+	public String getUserName(String userId){
+		return "Allen";
+	}
 
 }
